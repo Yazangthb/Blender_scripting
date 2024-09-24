@@ -1,4 +1,6 @@
 # Blender_scripting
 Creating realistic dataset with blender
 
-[Click here to watch the video](/blender/ball_paper_collision.mp4)
+![Alt Text](/blender/ball_paper_collision-ezgif.com-video-to-gif-converter.gif)
+
+
